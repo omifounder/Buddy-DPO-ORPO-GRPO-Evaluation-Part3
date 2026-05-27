@@ -1,4 +1,4 @@
-# Buddy: Preference Optimisation for Teen Mental Health Companions (Part-3)
+# Buddy: Preference Optimisation for Teen Mental Health Companions (Phase-3)
 
 > A systematic empirical study of DPO/IPO preference optimisation for fine-tuning LLMs as empathetic companions for teenagers under 14. Everything runs locally on Apple Silicon — no API costs.
 
